@@ -10,7 +10,7 @@ This is a simple mod that will add to the game new type of enemy. Biters that wi
 - Biters won't be able to survive long time out of water tiles so they won't attack structures that are distanced from water
 
 ## Goals Road Map
-1. Awuatic biters and water biter bases
+1. Aquatic biters and water biter bases
 2. Special wapons to defeat them
 3. Special type of defence systems like water "walls"
 4. **Alpha Version Relese**
